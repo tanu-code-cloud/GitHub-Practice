@@ -1,2 +1,3 @@
-# GitHub-Practice
-This is my first practice repository to learn Git &amp; GitHub
+Hello,I am Tanu
+This is my first  GitHub repository.
+Currently learning Git & GitHub!
